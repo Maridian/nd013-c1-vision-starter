@@ -1,2 +1,5 @@
 *__pycache__
 *.ipynb_checkpoints/
+.vscode/launch.json
+Data/processed/segment-10017090168044687777_6380_000_6400_000_with_camera_labels.tfrecord
+Data/raw/segment-10017090168044687777_6380_000_6400_000_with_camera_labels.tfrecord_.gstmp
